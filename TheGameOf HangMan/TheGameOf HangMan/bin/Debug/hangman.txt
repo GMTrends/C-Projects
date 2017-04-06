@@ -1,0 +1,10 @@
+travel
+city
+country
+farm
+School
+mall
+beach
+game
+store
+market
